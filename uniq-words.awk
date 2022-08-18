@@ -1,3 +1,4 @@
+#!/usr/bin/awk
 # AWK counting uniq records / words
 
 # actions before reading text stream
